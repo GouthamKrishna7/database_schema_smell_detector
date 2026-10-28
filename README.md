@@ -130,5 +130,5 @@ The application features a built-in automated test runner executing:
 
 ## 👨‍🏫 Project Credits & Guidance
 - **Faculty Guide:** Dr. Swaminathan A, Assistant Professor, Department of Computer Science & Engineering
-- **Student Contributors:** [ENTER NAME] ([ENTER REGISTER NUMBER])
-- **Course:** B.Tech Database Systems
+- **Student Contributors:** Sneha Sahu(25BCE5319), Ananya Krishna(25BCE5333), Gouthamkrishna S V(25BCE5410)
+- **Course:** B.Tech - Database Systems
