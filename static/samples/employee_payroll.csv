@@ -1,0 +1,4 @@
+emp_id,emp_name,dept_id,dept_name,phone1,phone2,salary
+1001,John Doe,10,Sales,9840111111,9840222222,65000.0
+1002,Jane Smith,20,Marketing,9840333333,,72000.0
+1003,Robert Brown,10,Sales,9840555555,9840666666,68000.0

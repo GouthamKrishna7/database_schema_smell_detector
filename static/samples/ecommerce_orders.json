@@ -1,0 +1,27 @@
+[
+  {
+    "order_id": 9001,
+    "customer_id": 401,
+    "customer_name": "David Miller",
+    "customer_email": "david@example.com",
+    "order_date": "2024-03-15",
+    "product_items": [
+      "Laptop",
+      "Wireless Mouse",
+      "USB-C Cable"
+    ],
+    "total_amount": 1250.5
+  },
+  {
+    "order_id": 9002,
+    "customer_id": 402,
+    "customer_name": "Emma Watson",
+    "customer_email": "emma@example.com",
+    "order_date": "2024-03-16",
+    "product_items": [
+      "Mechanical Keyboard",
+      "Monitor 27in"
+    ],
+    "total_amount": 450.0
+  }
+]
